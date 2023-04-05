@@ -1,3 +1,3 @@
 output "output" {
-  value       = module.key_vault.id
+  value = module.key_vault.id
 }
